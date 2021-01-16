@@ -20,7 +20,7 @@ https://www.kaggle.com/anthonygiorgio/ifsc-climbing-competition-results-1991-201
 
 # Content
 
-1-Cleaning/concatenating data  (Jupyter Notebook)
+1-Cleaning/concatenating data (Jupyter Notebook)
 
 2-Data exploration (Tableau, twbx file)
 
@@ -36,6 +36,7 @@ https://www.kaggle.com/anthonygiorgio/ifsc-climbing-competition-results-1991-201
 - Converting data types. 
 - Separating youth and adult results.
 - Cleaning and organising key identifier to concatenate athletes data.
+- Configure new database with atheletes data combined with athletes results.
 
 ### 2. Data exploration
 
@@ -49,7 +50,7 @@ https://www.kaggle.com/anthonygiorgio/ifsc-climbing-competition-results-1991-201
 
 ## Limitations
 
-Due to limitations of data, this study couldn't go under a traditional hypothesis testing format. Both datasets attached were in the end too nuanaced to perform hypothesis testing. This study visually opens up that the discpline and host countries could affect athlete behaviour but could not go beyond this stage. Unfortunately the IFSC API does not include full results, only overall ranking so individual performance is something that isn't possible to analyse at this stage. This study would do better following a different approach that I've set out below.
+Due to limitations of data, this study couldn't go under a traditional hypothesis testing format. Both datasets attached were in the end too nuanaced to perform hypothesis testing. This study visually explores the way in which the discpline and host countries could affect athlete behaviour but could not go beyond this stage. Unfortunately the IFSC API does not include full results, only overall ranking so individual performance is something that isn't possible to analyse at this stage. This study would do better following a different approach that I've set out below in the Next Steps section.
 
 ## Next Steps
 
@@ -58,7 +59,7 @@ To explore whether the host country has an affect on athlete performance - Explo
 ## Conclusion 
 
 My project became more of a descriptive study. We can accept “theoretical” null hypothesis but if anything it opens up more questions. Due to the limits of my data I couldn’t go beyond this.
-There is a difference in demographics and popularity between both disciplines - The country could still affect performance but we would need more data (e.g funding & rankings of athletes over time).
+There is a difference in demographics and popularity between both disciplines - The country could still affect performance but we would need more data (e.g funding & rankings of athletes over time). This study did successfully combine atheletes data with athlete results which can still be used for further analysis.
 
 
 
